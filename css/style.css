@@ -1,0 +1,31 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5px;
+
+}
+
+h1{
+    color:white;
+    background-color: black;
+    padding: 20px;
+}
+
+#difColor{
+    color: lightblue;
+}
+
+h2{
+    color:white;
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+    padding: 15px;
+}
+
+h3{
+    background-color: skyblue;
+    text-align: right;
+    text-decoration: underline;
+    color: purple;
+    padding: 15px;
+}
